@@ -7,6 +7,17 @@
       "detail": "http://caiji.dyttzyapi.com",
       "is_adult": false
     },
+	"ysgc": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "影视工厂",
+      "detail": "http://caiji.dyttzyapi.com",
+      "is_adult": false
+    },
+	"1080": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php/",
+      "name": "1080资源",
+      "is_adult": false
+    },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
